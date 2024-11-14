@@ -1,0 +1,46 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--class-path
+'C:/tmp/PruebaArquetipo/ProyectoJavaArquetipo/target/classes;C:/tmp/PruebaArquetipo/ProyectoJavaArquetipo/target/test-classes;C:/Users/danie/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/tmp/PruebaArquetipo/ProyectoJavaArquetipo/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/tmp/PruebaArquetipo/ProyectoJavaArquetipo/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoJavaArquetipo 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-use
+-version
+-windowtitle
+'ProyectoJavaArquetipo 1.0-SNAPSHOT Test API'
+org.example
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\src\test\java = 1729767054768
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\allclasses-index.html = 1730373078450
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\allpackages-index.html = 1730373078450
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\element-list = 1730373078386
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\help-doc.html = 1730373078482
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\index-all.html = 1730373078467
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\index.html = 1730373078467
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\jquery-ui.overrides.css = 1730373078498
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\member-search-index.js = 1730373078460
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\module-search-index.js = 1730373078450
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\overview-tree.html = 1730373078424
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\package-search-index.js = 1730373078450
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\script.js = 1730373078482
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\search.js = 1730373078482
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\stylesheet.css = 1730373078482
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\tag-search-index.js = 1730373078460
+C:\tmp\PruebaArquetipo\ProyectoJavaArquetipo\target\site\testapidocs\type-search-index.js = 1730373078460
