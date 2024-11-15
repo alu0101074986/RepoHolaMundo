@@ -6,7 +6,7 @@ public class App
 {
     public static void main(String[] args)
     {
-        // Lista de mensajes
+        // Lista de mensajes modificacion
         String[] mensajes = {
             "Hola Mundo con Arquetipo!",
             "¡Bienvenido al mundo de Java!",
